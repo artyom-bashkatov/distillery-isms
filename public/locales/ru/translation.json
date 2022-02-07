@@ -1,0 +1,25 @@
+{
+  "navigation": {
+    "menu": "Меню",
+    "users": "Пользователи из Bamboo",
+    "services": "Сервисы безопасности",
+    "reports": "Отчеты",
+    "graphic": "График",
+    "requests": "Запросы",
+    "employees": "Сотрудники",
+    "statistics": "Сводка статистики",
+    "actualization": "Актуализация данных",
+    "clientemployees": "Сотрудники",
+    "clientusers": "Пользователи из Bamboo",
+    "clientservices": "Сервисы безопасности",
+    "clientreports": "Отчеты",
+    "clientgraphics": "График",
+    "clientrequests": "Запросы",
+    "clientstatistics": "Статистика",
+    "clientactualization": "Актуализация",
+    "deletedEmployees": "Уволенные Сотрудники"
+  },
+  "newEmployees": "Новые сотрудники",
+  "firedEmployees": "Уволенные сотрудники",
+  "All": "Все"
+}

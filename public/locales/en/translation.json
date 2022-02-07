@@ -1,0 +1,25 @@
+{
+  "navigation": {
+    "menu": "Menu",
+    "users": "Users from Bamboo",
+    "services": "Security services",
+    "reports": "Reports",
+    "graphic": "Chart",
+    "requests": "Requests",
+    "employees": "Employees",
+    "statistics": "Statistics",
+    "actualization": "Actualization",
+    "clientemployees": "Employees",
+    "clientusers": "Users From Bamboo",
+    "clientservices": "Security Services",
+    "clientreports": "Reports",
+    "clientgraphics": "Chart",
+    "clientrequests": "Requests",
+    "clientstatistics": "Statistics",
+    "clientactualization": "Actualization",
+    "deletedEmployees": "Deleted Employees"
+  },
+  "newEmployees": "New Employees",
+  "firedEmployees": "Fired Employees",
+  "All": "All"
+}

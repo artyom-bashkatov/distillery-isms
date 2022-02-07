@@ -1,0 +1,23 @@
+.logs-container {
+  border-top: 24px solid;
+  border-left: 1px solid;
+  border-right: 1px solid;
+  border-bottom: 1px solid;
+  display: block;
+  position: relative;
+  width: 600px;
+  height: 960px;
+  margin-top: 1em;
+  overflow-x: hidden;
+  overflow-y: auto;
+  word-break: break-word;
+  word-wrap: break-word;
+  padding: 12px;
+}
+
+.logs-title {
+  position: absolute;
+  top: 0.2em;
+  left: 0.5em;
+  z-index: 2;
+}
